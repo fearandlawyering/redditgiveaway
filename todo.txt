@@ -1,0 +1,6 @@
+Todo:
+
+- support paging for more than 100 replies
+- filter contestants to certain time period
+- pick multiple winners
+- generate multiple random numbers before picking
